@@ -1,5 +1,5 @@
 # Graph Neural Network (GNN) Project
-
+## Author: Ziqi Zhou
 ## Introduction
 
 This project implements a Graph Neural Network (GNN) for working with graph-structured data. GNNs are powerful tools for various graph-based tasks such as node classification, graph classification, and link prediction. They work by leveraging message-passing mechanisms, allowing nodes in a graph to exchange information with their neighbors. This process allows the network to capture the structural relationships between nodes and generate useful representations for downstream tasks.
